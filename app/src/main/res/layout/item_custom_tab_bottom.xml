@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/test"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside" />
+
+
+        <TextView
+            android:id="@+id/countBadge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/icon"
+            android:layout_alignTop="@+id/icon"
+            android:layout_marginEnd="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:maxLines="1"
+            android:minWidth="17sp"
+            android:padding="1dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:text=""
+            android:textColor="#ffffffff"
+            android:textSize="12sp"
+            android:visibility="gone" />
+        <!--android:background="@drawable/pointer_"-->
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/title"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textAllCaps="false"
+        android:textColor="@color/selector_tab_color"
+        android:textSize="12sp"
+        />
+
+
+</LinearLayout>

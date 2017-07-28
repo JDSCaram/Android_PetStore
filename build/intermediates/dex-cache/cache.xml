@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\ae382d1f5af8f466e65a04a0f9fe8bee08723aef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_64fdb3bf245b3b790d00d47909aed991307e98a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\okio-1.13.0_db8f84c9be2ab57cbb3c80f4eefe3e543b55f859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\1f6f390de3c9d4e939e80bd8fd3364c8f1c65740\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_f51120a4ed0c80b2e65b6d42e89fdebbd2528e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\19a72df81878dd50876fde01e995ace839e93380\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="37e257a25703e692be3f9aa9c4bf7de620e9271a">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_df5c52ba487e7e6261c65dd6cb43a0f2b9fe2f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\retrofit-2.3.0_8e18f064eda1802cb5593ab7c8b0b62703d0f18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\42b1875b82c6d2fc72e8691da1303743b4343ab2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_92ab13be262ac9a4dc709fcfe288124301f35f2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\f809a709ed587cb68d8a6c556f4b2454201d916c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_9c4c65b9c8cf2593f7325eacd45165a8bad4c97c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\javax.inject-1_edbdc459d9927d3336c4f87e3e6f16b67a4099f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\c69d1563f4800bd0db2eae849abf083fa06644c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_2bd3138945c1daa8343843109edafdeae3776157.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\incremental-runtime-classes\production\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\transforms\dex\production\debug\folders\1000\10000\instant-run_fcdb0547ed1b922b4f7cfa18cbacfa12bf1e83bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\2c9414bebb7169e8f10760cd596c9d3b940aca85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_80e8df5e8f5757102e72dbeb6310c472a16d8e6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.11\95037eaee68aa48021511972e9db9ba29916e1c9\dagger-2.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95037eaee68aa48021511972e9db9ba29916e1c9">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\dagger-2.11_7833f8269cd21b51aba5b2da69ee6fcac26a63d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\converter-gson-2.3.0_ead35bbc86e819bdabcc849ad21cb9b87cc482b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\org.projectlombok\lombok\1.16.8\2ce9de13f277ec1600e7e04231477e3e5f59d317\lombok-1.16.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ce9de13f277ec1600e7e04231477e3e5f59d317">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\lombok-1.16.8_352a0ebd57e89af94c07cb46d038e4c7faa45339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\bolts-tasks-1.4.0_032002f3b5b0e8eb1298eb15c452f386da9422dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\okhttp-3.8.0_935c19cfc4fcbf66d50427ada825c66067b700ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\989af53b72eeee943244063fa98c27b79d2f75c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_0dafbb71d095f702cd7b1d6ee3a1c3a6f0e04121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\d8c36809fd30ec73be08ea93d7c76c9ad1417e07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_2bca29c21d79beaec9e7aec2e3a8538fe8814310.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\incremental-classes\production\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8fcec6a53f8f9a455a9037b80bd7d0cb250504a">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\transforms\dex\production\debug\folders\1000\10000\instant-run-bootstrap_66bd4ead9f0737979c96da43bb0b94909c75d381\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.0\f765f004f3e201bd6ad0904266e605d7fb776d5\logging-interceptor-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\logging-interceptor-3.8.0_0428e3f735e0f104ad7b7d90c95aeb690ac6ca2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\1db9ad9f21860402e25dc527bccf3955a52954d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_17c4f8839191b6230743aac41f0063f6ba3e2f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\151728dd380620b6071923f1a00baf284bbb5e0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_1d4baf446847601a1b174c0a855c5f11e9a1de73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\58617f7b863d5272ff2faa95825eaba7eed46182\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_f005a85b7cf396e907743dccb32c7312c40bd146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\gson-2.7_e33bd8749fda14338ffe6f319d257e215af27c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jcaram\.android\build-cache\44ca86e609c6ab824d1a0029c1bdfd24744da7ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Projetos\Jonatas\AndroidMVP\app\build\intermediates\pre-dexed\production\debug\classes_a68f25a16a7813765f869826ac1dcfa76ed5f6ec.jar" />
+    </item>
+
+</items>

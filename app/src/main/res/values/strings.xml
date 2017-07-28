@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CalStível</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_history">History</string>
+    <string name="tab_register">Register</string>
+    <string name="send">Send</string>
+    <string name="insert_value">Please enter a value greater than zero</string>
+    <string name="pets_status">Pets Status List</string>
+    <string name="search_your_best_friend">Find Your Best Friend</string>
+    <string name="register_new_pet">Register a new pet</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="select_photo">Select the photo of your pet</string>
+    <string name="tag">Tag</string>
+    <string name="available">Available</string>
+    <string name="pending">Pending</string>
+    <string name="sold">Sold</string>
+    <string name="what_is_the_status">What is the status?</string>
+    <string name="camera">Camera</string>
+    <string name="choose_photo">Choose from Library</string>
+    <string name="cancel">Cancel</string>
+    <string name="gallery">Gallery</string>
+
+    <string name="error_empty_field">All fields are mandatory</string>
+    <string name="genre">GENRE</string>
+    <string name="ok">OK</string>
+    <string name="register_success">Success</string>
+    <string-array name="categories_pets">
+        <item>GENRE</item>
+        <item>Alpacas</item>
+        <item>Cats</item>
+        <item>Cows</item>
+        <item>Donkeys</item>
+        <item>Dogs</item>
+        <item>Horses</item>
+        <item>Llamas</item>
+        <item>Pigs</item>
+        <item>Goats</item>
+        <item>Rabbit</item>
+        <item>Cockatiel</item>
+        <item>Parrot</item>
+        <item>Macaw</item>
+        <item>Tucano</item>
+        <item>Chickens</item>
+        <item>Turtle</item>
+        <item>Goldfish</item>
+        <item>Barb</item>
+        <item>Betta</item>
+        <item>Guppy</item>
+        <item>Cascudo</item>
+        <item>Others</item>
+    </string-array>
+</resources>
