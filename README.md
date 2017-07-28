@@ -10,8 +10,10 @@ Swagger PetStore: http://petstore.swagger.io <br />
 
 ![Alt text](https://github.com/JDSCaram/Android_PetStore/blob/master/screenshots/example.png "App")
 
+
+
 ## License
-Copyright {{ 2017 }} {{ Jonatas Caram }}
+Copyright 2017 JONATAS CARAM 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
