@@ -8,7 +8,10 @@ MVP: https://medium.com/android-dev-br/desmistificando-o-mvc-e-mvp-no-android-ab
 Imgur API: https://apidocs.imgur.com/ <br />
 Swagger PetStore: http://petstore.swagger.io <br />
 Lombok : https://projectlombok.org/ <br />
+RxAndroid : https://github.com/ReactiveX/RxAndroid  <br />
 
+## Last Update
+Add RxAndroid for Home Screen
 
 ## DEMO
 ![Alt text](https://github.com/JDSCaram/Android_PetStore/blob/master/screenshots/example.png "App")
