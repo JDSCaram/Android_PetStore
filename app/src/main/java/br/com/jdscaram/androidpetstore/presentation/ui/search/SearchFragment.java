@@ -127,6 +127,11 @@ public class SearchFragment extends Fragment implements SearchInteractorView {
     }
 
     @Override
+    public void showErrorMessage(String msg) {
+
+    }
+
+    @Override
     public void showHistory(List<PetModel> items) {
         if (items != null) {
             mPetModels = items;

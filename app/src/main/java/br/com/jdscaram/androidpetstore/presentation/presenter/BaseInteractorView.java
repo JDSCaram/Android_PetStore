@@ -9,4 +9,5 @@ public interface BaseInteractorView {
     void hideProgress();
     void showMessage(String message);
     void showErrorMessage();
+    void showErrorMessage(String msg);
 }

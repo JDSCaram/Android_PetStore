@@ -9,6 +9,11 @@ import javax.inject.Inject;
 import br.com.jdscaram.androidpetstore.services.RemoteCallback;
 import br.com.jdscaram.androidpetstore.services.ServiceMapper;
 import br.com.jdscaram.androidpetstore.services.animals.bean.PetModel;
+import io.reactivex.Observable;
+import io.reactivex.Observer;
+import io.reactivex.android.schedulers.AndroidSchedulers;
+import io.reactivex.disposables.Disposable;
+import io.reactivex.schedulers.Schedulers;
 import retrofit2.Retrofit;
 
 
@@ -20,10 +25,6 @@ public class HomePresenterImpl implements HomePresenter {
 
     public Retrofit retrofit;
     private HomeInteractorView mView;
-
-//    public HomePresenterImpl(DataManager dataManager) {
-//        mDataManager = dataManager;
-//    }
 
     @Inject
     public HomePresenterImpl(Retrofit retrofit, HomeInteractorView mView) {
@@ -51,23 +52,35 @@ public class HomePresenterImpl implements HomePresenter {
     public void getPets(String status) {
         if (!isViewAttached()) return;
         mView.showProgress();
-        retrofit.create(ServiceMapper.class)
-                .getPets(status)
-                .enqueue(new RemoteCallback<List<PetModel>>() {
+        ServiceMapper serviceMapper = retrofit.create(ServiceMapper.class);
+
+        Observable<List<PetModel>> observable = serviceMapper.getPets(status);
+        observable.subscribeOn(Schedulers.newThread())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(new Observer<List<PetModel>>() {
                     @Override
-                    public void onSuccess(List<PetModel> response) {
+                    public void onSubscribe(Disposable d) {
+                    }
+
+                    @Override
+                    public void onNext(List<PetModel> response) {
                         if (!isViewAttached()) return;
                         mView.showHome(response);
                         mView.hideProgress();
                     }
 
                     @Override
-                    public void onFailed(Throwable throwable) {
+                    public void onError(Throwable e) {
                         if (!isViewAttached()) return;
                         mView.hideProgress();
-                        mView.showErrorMessage();
+                        mView.showErrorMessage(e.getMessage());
+                    }
+
+                    @Override
+                    public void onComplete() {
                     }
                 });
+
     }
 
 }

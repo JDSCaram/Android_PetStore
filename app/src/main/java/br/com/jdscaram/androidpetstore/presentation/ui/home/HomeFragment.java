@@ -111,6 +111,13 @@ public class HomeFragment extends Fragment implements HomeInteractorView, SwipeR
     }
 
     @Override
+    public void showErrorMessage(String msg) {
+        AlertDialog.Builder alertDialogBuilder =
+                new AlertDialog.Builder(getContext());
+        alertDialogBuilder.setMessage(msg).create().show();
+    }
+
+    @Override
     public void showHome(List<PetModel> items) {
         if (items != null) {
             mPetModels = items;

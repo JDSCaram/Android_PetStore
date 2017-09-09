@@ -192,6 +192,11 @@ public class RegisterFragment extends Fragment implements RegisterInteractorView
     }
 
     @Override
+    public void showErrorMessage(String msg) {
+
+    }
+
+    @Override
     public void receiveImageURL(String url) {
         if (url != null)
             mTextUrl.setText(url);

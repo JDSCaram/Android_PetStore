@@ -3,6 +3,7 @@ package br.com.jdscaram.androidpetstore.services;
 import java.util.List;
 
 import br.com.jdscaram.androidpetstore.services.animals.bean.PetModel;
+import io.reactivex.Observable;
 import retrofit2.Call;
 import retrofit2.http.Body;
 import retrofit2.http.GET;
@@ -26,7 +27,7 @@ public interface ServiceMapper {
     Call<PetModel> getPet(@Path("petId") long id);
 
     @GET("pet/findByStatus")
-    Call<List<PetModel>> getPets(@Query("status") String value);
+    Observable<List<PetModel>> getPets(@Query("status") String value);
 
     @POST
     Call<PetModel> registerPet(@Url String url, @Body PetModel petRequest);
